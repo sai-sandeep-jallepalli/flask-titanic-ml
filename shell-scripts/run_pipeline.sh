@@ -21,6 +21,7 @@ python app.py
 # chmod +x run_pipeline.sh
 #
 # Now you can run the pipeline using the command:
+#
 # ./run_pipeline.sh
 #
 # This will create a virtual environment, install the required dependencies,
